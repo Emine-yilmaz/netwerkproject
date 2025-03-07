@@ -63,5 +63,5 @@ This project involves the design and integration of two separate LAN networks (L
 
 ## Installation and Running
 1. **Download and install Cisco Packet Tracer** software on your computer.
-2. Download and open the project file: `project-file.pkt`.
+2. Download and open the project file: `netwerkproject.pkt`.
 3. Simulate the project in Cisco Packet Tracer and verify that both networks are working correctly.
